@@ -122,7 +122,7 @@ export default function RegisterForm() {
                         <Buttons
                             btnStyle="secondary"
                             type="button"
-                            onClick={() => navigate("/login")}
+                            onClick={() => navigate("/")}
                         >Masuk</Buttons>
                     </div>
                 </div>
